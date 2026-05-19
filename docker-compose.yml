@@ -33,7 +33,7 @@ services:
       SIGHTENGINE_API_USER: 20920835
       SIGHTENGINE_API_SECRET: vonAAdbgD8zHWjGggEQX7BdaMHXjhqiY
       SIGHTENGINE_API_URL: https://api.sightengine.com/1.0/check.json
-      GEMINI_API_KEY: AIzaSyDTIpKgW3Qi3izpI4StN7T8g_VPMb1zMYM
+      GEMINI_API_KEY: AIzaSyCuIoN07t2Vnu4-74lOqcPv_TB2pnZ_WJ4
       GEMINI_API_URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent
     depends_on:
       mysql:
